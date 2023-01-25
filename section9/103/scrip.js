@@ -1,7 +1,7 @@
 
 
 const restaurant = {
-    name: 'tienlee',
+    name: 'Classico Italiano',
     location: 'Via Angelo Tavanti 23, Firenze, Italy',
     categories: ['Italian', 'Pizzeria', 'Vegetarian', 'Organic'],
     starterMenu: ['caran', 'cachien', 'canau', 'ca'],
