@@ -31,7 +31,9 @@ const restaurant = {
     },
     orderPasta: function (ing1, ing2, ing3) {
         console.log(`Here is your declicious pasta with ${ing1}, ${ing2} and ${ing3}`);
-    }
+    },
+
+  
 
 };
 const arr = [7, 8, 9];
